@@ -1,0 +1,22 @@
+{
+  "name": "3.3-food_dist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KseniyaBabaryka-creator/Food.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KseniyaBabaryka-creator/Food/issues"
+  },
+  "homepage": "https://github.com/KseniyaBabaryka-creator/Food#readme",
+  "description": "",
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
